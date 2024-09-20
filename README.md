@@ -1,5 +1,7 @@
 # Go C++, your quickstart to C++ projects
 
+<img src="https://github.com/cemderv/gocpp.dev/blob/main/gocpp-logo.png" width="300">
+
 With a single command, Go C++ sets up:
 
 - A CMake-based C++ project
